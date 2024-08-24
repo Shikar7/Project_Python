@@ -279,7 +279,7 @@ sypar
 10 8.0 
 cONTROLLER OF EXAMINATIONS 
 Aindcates 'ABSENT 
-helloNote 
+Note 
 i 
 Any 
 ncy 
@@ -528,7 +528,7 @@ ENGINEERING
 TECHNOLOGY 
 Grade 
 Registered :6 
-helloNote s 
+Note s 
 Date 
 of 
 Issue 
@@ -798,7 +798,7 @@ Intervals)
 %ofMarks 
 Secured 
 LAB 
-hellony 
+ny 
 cy 
 must 
 be 
@@ -1075,7 +1075,7 @@ Affiliated
 to 
 JNTUH, 
 Hyderabad) 
-helloNote 
+Note 
 : 
 Any 
 screpancy 
@@ -1351,7 +1351,7 @@ Secured
 CIRCUIT 
 ANALYSIS 
 NOV-2020 
-helloNote 
+Note 
 : 
 Any 
 discrepancy 
@@ -1625,7 +1625,7 @@ Afilated
 to 
 JNTUH, 
 Hyderabad) 
-helloNote 
+Note 
 : 
 Any 
 discrepancy 
@@ -1902,7 +1902,7 @@ ELECTIVE-I1
 (CMOS 
 DESIGN) 
 COMMUNICATION 
-helloNote ; 
+Note ; 
 ny 
 Date of 
 Issue 
@@ -2174,7 +2174,7 @@ Affillated
 to 
 JNTUH, 
 Hyderabad) 
-helloNote 
+Note 
 s 
 Aoy 
 cy 
@@ -2419,4 +2419,3 @@ Affiliated
 to 
 JNTUH, 
 Hyderabad) 
-hello
