@@ -5,7 +5,7 @@ from collections import namedtuple
 
 Inv = namedtuple('Inv', 'vend_num vend_name inv_dt due_dt inv_amt net_amt description')
 
-ap = 'Python_Projects\apreports.pdf'
+ap = 'preports.pdf'
 with pdfplumber.open(ap) as pdf:
     page=pdf.pages[15]
     text = page.extract_text()
@@ -48,4 +48,4 @@ print(df.head())
 #df['net_amt'] = df['net_amt'].map(lambda x: float(x.replace(',', '')))
 
 print(df.sum())
-df.to_csv('inv_lines.csv')
+df.to_csv('inv_result.csv')
