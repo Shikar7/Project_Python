@@ -8,7 +8,8 @@ inv_result.csv is the result of the project
 
 2)project data extract from transcript
 
-Shikar_Tscripts.pdf is the source pdf and we have taken page 16 for our project
+Shikar_Tscripts.pdf is the source pdf 
+
 projectssb.py is the python file for this project
 result.txt is the result of the file
 ptable.py is used to convert text file to csv file
